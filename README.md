@@ -1,0 +1,1 @@
+This project involves the use of Principal Component Analysis(PCA) and K-means for optimal hedge identification. PCA is used to reduce the number of features in the data whiles maintaining majority of the variability whiles k-means is used to group the stocks or derivatives by volatility. The clu…
