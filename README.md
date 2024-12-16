@@ -2,4 +2,4 @@ This optimal hedge project involves the use of Principal Component Analysis(PCA)
 
 The second project employs the Monte Carlo simulation to price options with the Black-Scholes model as the underlying framework. The model algorithm assesses the option prices at different simulated random paths and backtracks from maturity to the present in order to determine the optimal exercise strategy at each step based on comparison between immediate payoff and continuation value.
 
-The third project entails the use of piecewise bootstrapping technique to build robust yield curves that can be used to price bonds. The yield rates used in the model are obtained from the 2023 daily yield rates obtained from the Treasury
+The third project entails the use of piecewise bootstrapping technique to build robust yield curves that can be used to price bonds. The yield rates used in the model are obtained from the 2023 daily yield rates obtained from the Treasury Department. 
